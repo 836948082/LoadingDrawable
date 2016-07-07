@@ -4,6 +4,7 @@
  and is especially suitable for the loading animation of the [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout).
 
 ![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleLoadingDrawable_Commit3.gif?width=300)
+![image](https://github.com/836948082/LoadingDrawable/blob/master/Preview/CircleLoadingDrawable_Commit3.gif)
 ## Features
  * SwapLoadingDrawable
  * GearLoadingDrawable
