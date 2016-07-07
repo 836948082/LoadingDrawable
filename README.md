@@ -1,9 +1,7 @@
 
 ## LoadingDrawable
- some android loading drawable, can be combined with any View as the loading View,
- and is especially suitable for the loading animation of the [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout).
 
-![image](https://github.com/836948082/LoadingDrawable/blob/master/Preview/CircleLoadingDrawable_Commit3.gif)
+![image](https://raw.githubusercontent.com/836948082/LoadingDrawable/master/Preview/CircleLoadingDrawable_Commit3.gif)
 
 ## Features
  * SwapLoadingDrawable
