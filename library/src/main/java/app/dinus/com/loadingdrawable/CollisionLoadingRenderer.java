@@ -33,7 +33,7 @@ public class CollisionLoadingRenderer extends LoadingRenderer {
     private static final float END_RIGHT_DURATION_OFFSET = 0.75f;
 
     private static final int[] DEFAULT_COLORS = new int[] {
-            Color.RED, Color.GREEN
+            Color.RED, Color.BLUE
     };
 
     private static final float[] DEFAULT_POSITIONS = new float[] {

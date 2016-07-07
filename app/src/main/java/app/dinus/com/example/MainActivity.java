@@ -12,7 +12,6 @@ import app.dinus.com.loadingdrawable.MaterialLoadingRenderer;
 import app.dinus.com.loadingdrawable.SwapLoadingRenderer;
 import app.dinus.com.loadingdrawable.WhorlLoadingRenderer;
 
-
 public class MainActivity extends AppCompatActivity {
     private LoadingDrawable mSwapDrawable;
     private LoadingDrawable mGearDrawable;
